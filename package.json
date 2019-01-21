@@ -1,0 +1,47 @@
+{
+  "_args": [
+    [
+      "react-native-alipay@0.1.5",
+      "E:\\Software\\Develop\\Git\\chengke-app"
+    ]
+  ],
+  "_from": "react-native-alipay@0.1.5",
+  "_id": "react-native-alipay@0.1.5",
+  "_inBundle": false,
+  "_integrity": "sha1-92M5O+QEtF9kqYfhNGWABoxBJcw=",
+  "_location": "/react-native-alipay",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-alipay@0.1.5",
+    "name": "react-native-alipay",
+    "escapedName": "react-native-alipay",
+    "rawSpec": "0.1.5",
+    "saveSpec": null,
+    "fetchSpec": "0.1.5"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/react-native-alipay/download/react-native-alipay-0.1.5.tgz",
+  "_spec": "0.1.5",
+  "_where": "E:\\Software\\Develop\\Git\\chengke-app",
+  "author": {
+    "name": "tdzl2003"
+  },
+  "description": "支付宝功能接入",
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "alipay"
+  ],
+  "license": "ISC",
+  "main": "src/index.js",
+  "name": "react-native-alipay",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.5"
+}

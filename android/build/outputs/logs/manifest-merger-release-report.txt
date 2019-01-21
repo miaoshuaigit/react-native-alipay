@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml
+		INJECTED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml
+		INJECTED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml
+		INJECTED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:11:22-78
+application
+ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:13:5-30:19
+	android:allowBackup
+		ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:14:9-35
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:15:9-20:20
+	android:screenOrientation
+		ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:19:13-47
+	android:exported
+		ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:18:13-37
+	android:configChanges
+		ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:17:13-74
+	android:name
+		ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:16:13-60
+activity#com.alipay.sdk.auth.AuthActivity
+ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:21:9-26:20
+	android:screenOrientation
+		ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:25:13-47
+	android:exported
+		ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:24:13-37
+	android:configChanges
+		ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:23:13-74
+	android:name
+		ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml:22:13-60
+uses-sdk
+INJECTED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml
+INJECTED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml
+INJECTED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml
+INJECTED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml
+		ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml
+		INJECTED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml
+		ADDED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml
+		INJECTED from E:\Software\Develop\Git\chengke-app\node_modules\react-native-alipay\android\src\main\AndroidManifest.xml
